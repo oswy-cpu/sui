@@ -1691,6 +1691,18 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
+"@tanstack/react-table@^8.1.4":
+  version "8.2.4"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-table/-/react-table-8.2.4.tgz#bb95430483893f486b47f203f088bdfd48dbe1fc"
+  integrity sha512-u+3XqujBRMAZrtwZSzzFEAyG6H2JoaEJI+88OKurGCelalz7KE3evY+HgAsUjvaolLlk2OI/E6Cg/jSY0CXmYA==
+  dependencies:
+    "@tanstack/table-core" "8.2.4"
+
+"@tanstack/table-core@8.2.4":
+  version "8.2.4"
+  resolved "https://registry.yarnpkg.com/@tanstack/table-core/-/table-core-8.2.4.tgz#680c87761a93e9d3480ad725e61558f14a634d3d"
+  integrity sha512-G7fGSh4p9BrcNGrXirWuNwI3nZVIFlLdMS1nytiE5EVBr2Yjvt0LE2t5ke9+LeIMjGVe1HqT9zrGa2ZtDOe1zQ==
+
 "@testing-library/dom@^8.0.0":
   version "8.13.0"
   resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-8.13.0.tgz#bc00bdd64c7d8b40841e27a70211399ad3af46f5"
